@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bookman-prerun" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/buttonprototyping" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jp-worksheet/jp-worksheet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kotlinconf-app" vcs="Git" />
+  </component>
+</project>

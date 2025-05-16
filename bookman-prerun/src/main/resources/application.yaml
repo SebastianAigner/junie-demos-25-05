@@ -1,0 +1,6 @@
+ktor:
+  application:
+    modules:
+      - io.sebi.ApplicationKt.module
+  deployment:
+    port: 21212
